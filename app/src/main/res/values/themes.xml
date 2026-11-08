@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NyxPet" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/nyx_bg</item>
+        <item name="android:statusBarColor">@color/nyx_bg</item>
+        <item name="android:navigationBarColor">@color/nyx_bg</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <color name="nyx_bg">#15121D</color>
+</resources>
